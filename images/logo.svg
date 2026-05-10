@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 140" fill="none">
+  <!-- Crochet Hook -->
+  <!-- Hook handle - left vertical bar -->
+  <line x1="38" y1="30" x2="38" y2="115" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Hook handle - right vertical bar -->
+  <line x1="48" y1="30" x2="48" y2="115" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Hook curve at top -->
+  <path d="M48 30 Q48 14 34 14 Q22 14 22 26 Q22 34 30 38" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- Bottom cap of handle -->
+  <path d="M38 115 Q43 120 48 115" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+  <!-- Thread path from hook down and looping -->
+  <path d="M43 80 Q55 90 58 105 Q62 125 50 128 Q38 131 36 118 Q34 108 46 106 Q54 105 56 95 Q62 72 80 65" stroke="#1a1a1a" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+
+  <!-- Thread connecting to yarn ball -->
+  <path d="M80 65 Q100 55 118 68" stroke="#C9A870" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+
+  <!-- Yarn Ball (spiral circle) -->
+  <!-- Outer circle -->
+  <circle cx="152" cy="90" r="42" stroke="#C9A870" stroke-width="2.8" fill="none"/>
+  <!-- Spiral inner curves -->
+  <path d="M152 52 Q190 52 190 90 Q190 128 152 128 Q122 128 116 104" stroke="#C9A870" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M152 62 Q180 62 180 90 Q180 118 152 118 Q130 118 124 100" stroke="#C9A870" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M152 72 Q170 72 170 90 Q170 108 152 108 Q138 108 134 97" stroke="#C9A870" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M152 82 Q160 82 160 90 Q160 98 152 98 Q146 98 144 93" stroke="#C9A870" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+</svg>
